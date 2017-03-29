@@ -54,7 +54,7 @@ Please have an overview of the app: <a href = "https://www.youtube.com/watch?v=n
  
  ### App Permission
  If you are using API 23 or more, Plese check the following;
- 1. Go to Settings
+ 1. > Go to Settings
  2. > Apps
  3. > SDES Blue
  4. > Permissions
