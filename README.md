@@ -53,9 +53,10 @@ Please have an overview of the app: <a href = "https://www.youtube.com/watch?v=n
  ![Unknown Source](http://www.androidiosguide.com/wp-content/uploads/2017/03/Enable-Unkown-Sources.jpg "Unknown Source")
  
  ### App Permission
+ This app needed Storage permission to Send-receive files.
  If you are using API 23 or more, Plese check the following;
  1. > Go to Settings
  2. > Apps
  3. > SDES Blue
  4. > Permissions
- 5. > Enable Storage.
+ 5. > Enable **_Storage_** Permission.
