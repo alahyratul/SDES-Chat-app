@@ -35,7 +35,7 @@ Please have an overview of the app: <a href = "https://www.youtube.com/watch?v=n
 
 3. > Click on the searched item to access it.
 
-4. > >> FILES
+4. > Go to FILES
 
 5. > Click on the right menu of "SDES Blue.apk" >> Download
 
