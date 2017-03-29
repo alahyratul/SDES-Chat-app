@@ -24,14 +24,14 @@ Please have an overview of the app: <a href = "https://www.youtube.com/watch?v=n
 
 ***Step 1*** Download application apk from https://github.com/alahyratul/SDES-Chat-app
 
-**Step 2:** Install it at any android device and allow required permission.
+***Step 2:*** Install it at any android device and allow required permission.
 
 
 **OR**
 
-***Step 1 :*** From google play install Fast Git : https://play.google.com/store/apps/details?id=com.fastaccess.github  (Any git client app will work).
+***Step 1 >*** From google play install Fast Git : https://play.google.com/store/apps/details?id=com.fastaccess.github  (Any git client app will work).
 
-***Step 2 :***Search for "SDES Chat app" (repository name)
+***Step 2 >*** Search for "SDES Chat app" (repository name)
 
 ***Step 3 :*** Click on the searched item to access it.
 
